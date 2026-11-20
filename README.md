@@ -3,7 +3,7 @@
 A running record of my research training and certifications, kept current as I earn them.
 
 **Eric Gill, Jr., CST** — Clinical Science Liaison, Varian · Siemens Healthineers (Interventional Radiology & Radiation Oncology)
-ORCID: [0009-0007-0720-2245](https://orcid.org/0009-0007-0720-2245) · Website: [ericgilljr.com](https://www.ericgilljr.com/)
+ORCID: [0009-0007-0720-2245](https://orcid.org/0009-0007-0720-2245) · Website: [ericgilljr.com/about](https://www.ericgilljr.com/about/)
 
 ## Completed
 | Training | Provider | Completed | Expires |
@@ -14,4 +14,4 @@ ORCID: [0009-0007-0720-2245](https://orcid.org/0009-0007-0720-2245) · Website: 
 
 ## Notes
 - Certificates are kept on file and available on request.
-- This record covers research training only. My professional profile is at [ericgilljr.com](https://www.ericgilljr.com/) and on [LinkedIn](https://www.linkedin.com/in/ericgilljr).
+- This record covers research training only. My professional profile is at [ericgilljr.com/about](https://www.ericgilljr.com/about/) and on [LinkedIn](https://www.linkedin.com/in/ericgilljr).
